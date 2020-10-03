@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1573374012 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci203_algorithms_and_data_structures\assignment\assignment3\assignment3\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	<string>
+	<bits/stdc++.h>
+
+1573374012 source:d:\uow\onedrive - university of wollongong\uow\uow\semester 3\csci203_algorithms_and_data_structures\assignment\assignment3\assignment3\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<list>
+	<string>
+	<bits/stdc++.h>
+
